@@ -4,9 +4,10 @@
 #include "functions.h"
 #include "flats.h"
 
-const char dataset[50] = "data.csv";
+const char dataset[50] = "data/data.csv";
 int current = 0; 
 flat residence[size];
+flat flats;
 
 int main(){
     login();
@@ -16,4 +17,4 @@ int main(){
     return 0;
 }
 
-//ver 2.1.0 stable
+//ver 3.0.0 stable

@@ -10,7 +10,7 @@ typedef struct {
     char name[50];
     char o_info[50];
     float paid;
-    float bal;
+    float balance;
     float due;
     char date[50];
 }Owner;
@@ -33,4 +33,4 @@ extern flat residence[size]; //saving all the flat struct inside residence array
 //endif = ending of the guard 
 #endif
 
-//ver 2.1.0 stable
+//ver 3.0.0 stable

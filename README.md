@@ -1,4 +1,3 @@
-
 # Flat Payment Management System
 
 A modular **C project** for managing flat bookings and payments for a construction company. This project features a menu-driven interface and leverages file handling for data persistence.
@@ -8,6 +7,7 @@ A modular **C project** for managing flat bookings and payments for a constructi
 ## 📖 Overview
 
 This project allows users to:
+
 - View flat details.
 - Book new flats.
 - Manage payment records for booked flats.
@@ -20,23 +20,31 @@ With **data persistence** using `data.csv`, this program ensures that updates ar
 ## 🚀 How to Use
 
 ### Compile the Program
+
 ```bash
-gcc -o main dsa.c functions.c -lm
+make
 ```
 
 ### Run the Program
+
 - **Linux**:
-  ```bash
-  ./main
-  ```
+
+    ```bash
+    ./main
+    ```
+
 - **Windows**:
-  ```cmd
-  main
-  ```
+
+    ```cmd
+    main
+    ```
+
 - **Mac**:
-  ```bash
-  ./main
-  ```
+
+    ```bash
+    ./main
+    ```
+
 ---
 
 ## 🛠 Features
@@ -77,13 +85,17 @@ gcc -o main dsa.c functions.c -lm
 ## 📦 Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/dizziedbliss/FlatManagementSystem.git
-   ```
+
+    ```bash
+    git clone https://github.com/dizziedbliss/FlatManagementSystem.git
+    ```
+
 2. Navigate to the project directory:
-   ```bash
-   cd FlatManagementSystem
-   ```
+
+    ```bash
+    cd FlatManagementSystem
+    ```
+
 3. Compile and run the program (commands above).
 
 ---
@@ -106,6 +118,7 @@ gcc -o main dsa.c functions.c -lm
 ---
 
 ## 📜 Contribute (or just say "Hi" 😄)
+
 This project is open for contributions, ideas, or just random comments (even if they’re about how cool flat booking systems are). You’re welcome to:
 
 - Open an issue if you find a bug
@@ -118,7 +131,9 @@ This project is open for contributions, ideas, or just random comments (even if 
 ## 📞 Contact
 
 **Max!!**
+
 - GitHub: [@dizziedbliss](https://github.com/dizziedbliss)
+
 ---
 
 ## 💡 Future Enhancements
