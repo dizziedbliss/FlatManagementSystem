@@ -21,13 +21,21 @@ With **data persistence** using `data.csv`, this program ensures that updates ar
 
 ### Compile the Program
 
-```bash
-make
-```
+- **Linux & Mac**:
+
+    ```bash
+    make
+    ```
+
+- **Windows** (if `make` isn’t installed):
+
+    ```cmd
+    gcc -Iincludes -lm src/main.c src/flats.c src/functions.c -o build/main.exe
+    ```
 
 ### Run the Program
 
-- **Linux**:
+- **Linux & Mac**:
 
     ```bash
     ./build/main
@@ -38,14 +46,6 @@ make
     ```cmd
     build\main.exe
     ```
-
-- **Mac**:
-
-    ```bash
-    ./build/main
-    ```
-
----
 
 ## 🛠 Features
 
