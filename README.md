@@ -30,19 +30,19 @@ make
 - **Linux**:
 
     ```bash
-    ./main
+    ./build/main
     ```
 
 - **Windows**:
 
     ```cmd
-    main
+    build\main.exe
     ```
 
 - **Mac**:
 
     ```bash
-    ./main
+    ./build/main
     ```
 
 ---
