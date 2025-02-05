@@ -6,7 +6,7 @@
 
 const char dataset[50] = "data/data.csv";
 int current = 0; 
-flat residence[0];
+flat residence[size];
 
 int main(){
     login();
