@@ -133,7 +133,7 @@ This project is open for contributions, ideas, or just random comments (even if 
 **Max!!**
 
 - GitHub: [@dizziedbliss](https://github.com/dizziedbliss)
--         [@shinosukedesu](https://github.com/shinnosukedesu) 
+- [@shinosukedesu](https://github.com/shinnosukedesu)
 
 ---
 
