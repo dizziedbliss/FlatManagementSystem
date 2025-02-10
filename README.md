@@ -130,9 +130,7 @@ This project is open for contributions, ideas, or just random comments (even if 
 
 ## 📞 Contact
 
-**Max!!**
-
-- GitHub: [@dizziedbliss](https://github.com/dizziedbliss)
+- [@dizziedbliss](https://github.com/dizziedbliss)
 - [@shinnosukedesu](https://github.com/shinnosukedesu)
 
 ---
